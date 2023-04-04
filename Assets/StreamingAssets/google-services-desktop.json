@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "114121448180",
+    "firebase_url": "https://linuxhouse-ae45a-default-rtdb.firebaseio.com",
+    "project_id": "linuxhouse-ae45a",
+    "storage_bucket": "linuxhouse-ae45a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114121448180:android:7379b86353d7566e745ca1",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.GBL_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114121448180-m4pnrvd7oot5r9lt87rm7qa2o2gghcke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIqweuNL1Rr7P3G7RiieMYMqSEw5YKt6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114121448180-m4pnrvd7oot5r9lt87rm7qa2o2gghcke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114121448180:android:da470ecfc217ce2b745ca1",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.LinuxHouseF"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114121448180-m4pnrvd7oot5r9lt87rm7qa2o2gghcke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIqweuNL1Rr7P3G7RiieMYMqSEw5YKt6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114121448180-m4pnrvd7oot5r9lt87rm7qa2o2gghcke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
